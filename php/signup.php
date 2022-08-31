@@ -35,7 +35,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     <?php require '../partials/_head.php' ?>
 
-    <link rel="stylesheet" href="/ByteCode/styles/sign-up-bg.css">
+    <link rel="stylesheet" href="../styles/sign-up-bg.css">
 
     <title>Sign-Up</title>
 </head>
@@ -53,9 +53,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
         <div class="sign-up-left">
             <div class="left-down">
-                <h1 class="dirt sign-up-h1"><a href="/ByteCode/index.php" style="text-decoration: none; color: white">BYTE<span class="og-brand-color">CODE</span></a></h1>
+                <h1 class="dirt sign-up-h1"><a href="../index.php" style="text-decoration: none; color: white">BYTE<span class="og-brand-color">CODE</span></a></h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam iure illum aliquam accusamus impedit magni soluta vero saepe voluptatem nemo.</p>
-                <div class="account"><a href="/ByteCode/php/signin.php" class="have-account">Already have an account?</a></div>
+                <div class="account"><a href="../php/signin.php" class="have-account">Already have an account?</a></div>
             </div>
         </div>
         <div class="sign-up-container">

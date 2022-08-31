@@ -9,7 +9,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
                     <li class="nav-item active">
-                        <a class="nav-link" aria-current="page" href="/ByteCode/index.php">Home</a>
+                        <a class="nav-link" aria-current="page" href="../index.php">Home</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Contact Us</a>
@@ -22,7 +22,7 @@
                         <a class="nav-link" href="#">Courses</a>
                     </li>
                     <li class="nav-item sign-in">
-                        <a class="nav-link  nohover" href="/ByteCode/php/signin.php">Sign In </a>
+                        <a class="nav-link  nohover" href="../php/signin.php">Sign In </a>
                     </li>
 
                     <li class="nav-item">
@@ -30,7 +30,7 @@
                         <!-- <a class="nav-link navbar-slash" href="#">/</a> -->
                     </li>
                     <li class="nav-item sign-up">
-                        <a class="nav-link" href="/ByteCode/php/signup.php">Sign Up</a>
+                        <a class="nav-link" href="../php/signup.php">Sign Up</a>
                     </li>
 
 

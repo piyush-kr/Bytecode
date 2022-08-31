@@ -31,7 +31,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     <?php require '../partials/_head.php' ?>
 
-    <link rel="stylesheet" href="/ByteCode/styles/sign-in-bg.css">
+    <link rel="stylesheet" href="../styles/sign-in-bg.css">
 
     <title>Sign-In</title>
 </head>
@@ -49,14 +49,14 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         ?>
         <div class="sign-in-container">
             <div class="sign-in-form">
-                <h1 class="dirt sign-in-h1"><a href="/ByteCode/index.php" style="text-decoration: none; color: white">BYTE<span class="og-brand-color">CODE</span></a></h1>
+                <h1 class="dirt sign-in-h1"><a href="../index.php" style="text-decoration: none; color: white">BYTE<span class="og-brand-color">CODE</span></a></h1>
                 <div class="sign-in-content">
                     <div class="sign-in-left">
                         <h1 style="font-weight: bold;">Welcome!</h1>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam iure illum aliquam accusamus impedit magni soluta vero saepe voluptatem nemo.</p>
-                        <button><a href="/ByteCode/php/signup.php" style="text-decoration: none; color: white">Register Now</a></button>
+                        <button><a href="../php/signup.php" style="text-decoration: none; color: white">Register Now</a></button>
                     </div>
-                    <form class="sign-in-form-post" action="/ByteCode/php/signin.php" method="post">
+                    <form class="sign-in-form-post" action="../php/signin.php" method="post">
                         <div class="sign-in-right">
 
                             <div class="sign-in-box">
