@@ -43,7 +43,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         <?php
         if ($login == 1) {
             echo '<h1 style="text-align: center; color: white;">Success. You have successfully logged in </h1>';
-        } else {
+        } elseif ($login == 2) {
             echo '<h1 style="text-align: center; color: white;">Email or Password doesnot match </h1>';
         }
         ?>
