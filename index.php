@@ -38,24 +38,7 @@
             <!--NAVBAR -->
             <?php require 'partials/_nav.php' ?>
             <!-- NAVBAR -->
-            <!-- FRONT PAGE -->
-            <!-- <div class="container front-page">
-                <div class="row hero-text">
-                    <div class="col hero-text_content">
-                        <h1 class="dirt">BYTE<span class="og-brand-color">CODE</span></h1>
-                        <h2>IT SOLUTIONS <span class="blue">&</span> SERVICES</h2>
-                        <div class="icons">
-                            <i class="fa-brands fa-square-facebook fa-2xl"></i>
-                            <i class="fa-brands fa-square-instagram fa-2xl"></i>
-                            <i class="fa-brands fa-linkedin fa-2xl"></i>
-                            <i class="fa-brands fa-square-twitter fa-2xl"></i>
-                        </div>
-                    </div>
-                    <div class="col hero-img">
-                        <img src="./assets/hero-img.png" alt="">
-                    </div>
-                </div>
-            </div> -->
+
             <div class="container front-page">
                 <div class="hero-text">
                     <div class="hero-text_content">
