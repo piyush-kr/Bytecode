@@ -618,6 +618,12 @@ body {
 
 /* STATS PAGE */
 
+@media (max-width: 907px) {
+  .og-stats-card {
+    transform: scale(0.7);
+  }
+}
+
 .stats-page {
   height: 100vh;
   border-radius: 100% 0% 100% 0% / 45% 100% 0% 55%;
